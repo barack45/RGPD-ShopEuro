@@ -2,5 +2,6 @@ streamlit
 pandas
 pyarrow
 plotly
+gdown
 scikit-learn
 joblib
